@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.IdentityModel.Tokens.Jwt;
-using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
-
+using Microsoft.AspNetCore.Mvc;
 namespace jwt.Controllers
 {
     /// <summary>
